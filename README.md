@@ -1,6 +1,8 @@
 # Hi, I’m David 
 
-I am a Software Engineer with a master's degree in Software Development. I currently work as Backend Developer using Django & Python and also, I have developed native applications with Android.
+<img width=256 align="right" src="https://github.com/davidcasr/davidcasr/blob/master/img/mini-me.png?raw=true" />
+
+I am a **Software Engineer** with a master's degree in Software Development. I currently work as Backend Developer using Django & Python and also, I have developed native applications with Android.
 
 - 👨‍🚀 I'm currently working as **Backend Developer** 
 - 🌱 I'm currently learning about **Flutter** and **Node.js**
