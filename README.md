@@ -8,5 +8,5 @@ I am a **Software Engineer** with a master's degree in Software Development. I c
 - 🌱 I'm currently learning about **Big Data and Datascience**
 - 👨‍💻 I worked in the backend with: **Python & Django, PHP & Laravel**
 - 💬 Ask me about software development in Laravel or Django and investigation projects 
-- 📫 How to reach me [email](mailto:me@davidcasr.co)
+- 📫 How to reach me: [email](mailto:me@davidcasr.co)
 - 🚀 He is mini-me and he also enjoys programming
