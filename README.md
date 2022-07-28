@@ -1,4 +1,4 @@
-# Hi, I’m David 
+# Hi, I’m David 👋🏻
 
 <img width=256 align="right" src="https://github.com/davidcasr/davidcasr/blob/master/img/mini-me.png?raw=true" />
 
