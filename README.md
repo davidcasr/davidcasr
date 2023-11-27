@@ -2,7 +2,7 @@
 
 <img width=256 align="right" src="https://github.com/davidcasr/davidcasr/blob/master/img/mini-me.png?raw=true" />
 
-I am a **Software Engineer** with a master's degree in Software Development. I currently work as **Backend Developer** using Python. I have developed native applications with Android and nowadays I write in [Medium](https://davidcasr.medium.com/) about my experiencie with some technologies.
+I am a **Software Engineer** with a master's degree in Software Development. I currently work as **Backend Developer** using Python. My passion is creativity with `code`, where I transform ideas into amazing solutions. Let's explore this digital journey together!
 
 - 👨‍🚀 I'm currently working as **Backend Developer** 
 - 🌱 I'm currently learning about **Data Engineer**
