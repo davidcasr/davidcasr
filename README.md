@@ -1,12 +1,27 @@
-# Hi, I’m David Castro
+# Hi, I'm David Castro
 
-<img width=256 align="right" src="https://github.com/davidcasr/davidcasr/blob/master/img/mini-me.png?raw=true" />
+I build reliable, scalable backend systems. With a Master's degree in Software Development and hands-on experience in Python, FastAPI, and Django, I focus on transforming complex problems into clean, maintainable solutions.
 
-I am a **Software Engineer** with a master's degree in Software Development. I currently work as **Backend Developer** using Python. My passion is creativity with `code`, where I transform ideas into amazing solutions. Let's explore this digital journey together!
+---
 
-- 👨‍🚀 I'm currently working as **Backend Developer** 
-- 🌱 I'm currently learning about **Leadership & Management**
-- 👨‍💻 I worked in the backend with: **Python**
-- 💬 Ask me about software development and business or research ideas 
-- 📫 How to reach me: [email](mailto:me@davidcasr.com)
-- 🚀 He is mini-me and he also enjoys programming
+## 🚀 About Me
+
+- 🔭 Currently working as **Backend Developer** with Python
+- 🎓 Master's degree in **Software Development**
+- 🌱 Growing into **Leadership & Engineering Management**
+- 💬 Open to conversations about software architecture, APIs, and building great dev teams
+
+---
+
+## 📊 GitHub Stats
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcasr&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcasr&layout=compact&hide_border=true&theme=default)
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidcasr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidcasr/)
+[![Website](https://img.shields.io/badge/Website-davidcasr.com-000000?style=flat-square&logo=globe&logoColor=white)](https://davidcasr.com/)
+[![Email](https://img.shields.io/badge/Email-me@davidcasr.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@davidcasr.com)
