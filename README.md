@@ -12,8 +12,9 @@ I build reliable, scalable backend systems. With a Master's degree in Software D
 
 ## 📊 GitHub Stats
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcasr&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcasr&layout=compact&hide_border=true&theme=default)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcasr&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcasr&layout=compact&hide_border=true&theme=default&cache_seconds=1800)
 
 
 ## 📬 Let's Connect
