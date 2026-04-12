@@ -2,8 +2,6 @@
 
 I build reliable, scalable backend systems. With a Master's degree in Software Development and hands-on experience in Python, FastAPI, and Django, I focus on transforming complex problems into clean, maintainable solutions.
 
----
-
 ## 🚀 About Me
 
 - 🔭 Currently working as **Backend Developer** with Python
@@ -11,14 +9,12 @@ I build reliable, scalable backend systems. With a Master's degree in Software D
 - 🌱 Growing into **Leadership & Engineering Management**
 - 💬 Open to conversations about software architecture, APIs, and building great dev teams
 
----
 
 ## 📊 GitHub Stats
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcasr&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcasr&layout=compact&hide_border=true&theme=default)
 
----
 
 ## 📬 Let's Connect
 
