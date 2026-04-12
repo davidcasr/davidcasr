@@ -9,6 +9,6 @@ I build reliable, scalable backend systems. With a Master's degree in Software D
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=davidcasr&theme=dark&hide_border=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidcasr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidcasr/)
-[![Website](https://img.shields.io/badge/Website-davidcasr.com-000000?style=flat-square&logo=globe&logoColor=white)](https://davidcasr.com/)
-[![Email](https://img.shields.io/badge/Email-me@davidcasr.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@davidcasr.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidcasr-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/davidcasr/)
+[![Website](https://img.shields.io/badge/Website-davidcasr.com-000000?style=flat-square&logo=googlechrome&logoColor=white&labelColor=000000)](https://davidcasr.com/)
+[![Email](https://img.shields.io/badge/Email-me%40davidcasr.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:me@davidcasr.com)
