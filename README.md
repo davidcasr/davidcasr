@@ -7,7 +7,7 @@ I build reliable, scalable backend systems. With a Master's degree in Software D
 - 🌱 Growing into **Leadership & Engineering Management**
 - 💬 Open to conversations about software architecture, APIs, and building great dev teams
 
-![GitHub Streak](https://streak-stats.demolab.com?user=davidcasr&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=davidcasr&theme=highcontrast&hide_border=true)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-davidcasr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidcasr/)
 [![Website](https://img.shields.io/badge/Website-davidcasr.com-000000?style=flat-square&logo=globe&logoColor=white)](https://davidcasr.com/)
