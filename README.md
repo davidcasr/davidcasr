@@ -12,7 +12,7 @@ I build reliable, scalable backend systems. With a Master's degree in Software D
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=davidcasr&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=davidcasr&theme=dark&hide_border=true)
 
 
 ## 📬 Let's Connect
