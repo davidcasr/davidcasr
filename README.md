@@ -109,6 +109,4 @@ If you have something to build, let's talk.
 <img height="150" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=davidcasr&layout=compact&hide_border=true&langs_count=8&title_color=E84E0F&text_color=EDEBE7&bg_color=080808" alt="top langs" />
 -->
 
-<sub>built with ❤️</sub>
-
 </div>
