@@ -101,10 +101,14 @@ If you have something to build, let's talk.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=davidcasr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=E84E0F&icon_color=E84E0F&text_color=EDEBE7&bg_color=080808" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcasr&layout=compact&hide_border=true&langs_count=8&title_color=E84E0F&text_color=EDEBE7&bg_color=080808" alt="top langs" />
+<!-- GitHub stats cards removed: the public github-readme-stats instance is
+     unreliable (503 / rate-limited). To bring them back, deploy your own
+     Vercel instance and swap the host in the URLs below:
 
-<br><br>
+<img height="150" src="https://YOUR-INSTANCE.vercel.app/api?username=davidcasr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=E84E0F&icon_color=E84E0F&text_color=EDEBE7&bg_color=080808" alt="stats" />
+<img height="150" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=davidcasr&layout=compact&hide_border=true&langs_count=8&title_color=E84E0F&text_color=EDEBE7&bg_color=080808" alt="top langs" />
+-->
+
 <sub>built with ❤️</sub>
 
 </div>
