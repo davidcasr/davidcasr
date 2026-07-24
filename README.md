@@ -10,7 +10,7 @@
 
 <sub><code>@davidcasr</code></sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E84E0F&center=true&vCenter=true&width=620&height=50&lines=%24+whoami;Senior+Backend+%26+Systems+Engineer;Engineer+by+training%2C+founder+by+conviction;10%2B+years+%C2%B7+Uber+%C2%B7+Cornershop+%C2%B7+Crehana" alt="whoami" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E84E0F&center=true&vCenter=true&width=620&height=50&lines=%24+whoami;Senior+Backend+%26+Systems+Engineer;Engineer+by+training%2C+founder+by+conviction;10%2B+years+%C2%B7+Crehana+%C2%B7+Habi+%C2%B7+Cornershop%2FUber" alt="whoami" />
 
 <br>
 
