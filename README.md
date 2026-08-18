@@ -2,7 +2,7 @@
 
 <sub>🔴 🟡 🟢 &nbsp;&nbsp; <code>davidcasr ~ zsh</code></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=David%20Castro&fontSize=58&fontColor=EDEBE7&height=85&fontAlignY=42&animation=fadeIn" alt="David Castro" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=David%20Castro&fontSize=58&fontColor=EDEBE7&height=60&fontAlignY=50&animation=fadeIn" alt="David Castro" />
 
 <!-- FALLBACK: if the image above ever fails to load, delete it and use this instead:
 ### David Castro
