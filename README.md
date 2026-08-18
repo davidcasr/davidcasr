@@ -83,7 +83,6 @@ Available for **backend roles, software architecture consulting, and applied AI.
 If you have something to build, let's talk.
 
 [![Email](https://img.shields.io/badge/me@davidcasr.com-E84E0F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@davidcasr.com)
-[![Calendly](https://img.shields.io/badge/Book%20a%20call-101010?style=for-the-badge&logo=calendly&logoColor=E84E0F)](https://calendly.com/davidcasr/coaching)
 
 <div align="center">
 
