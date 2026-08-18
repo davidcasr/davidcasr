@@ -27,8 +27,6 @@ I turn ideas into systems, and systems into products that solve real problems.
 10+ years designing and shipping backend systems where correctness and scale actually
 matter — high-traffic consumer platforms, health data, and AI systems built for auditability and trust.
 
-<br>
-
 ### `$ cat stack.yaml`
 
 **Languages & Frameworks**
@@ -52,8 +50,6 @@ matter — high-traffic consumer platforms, health data, and AI systems built fo
 ![Sentry](https://img.shields.io/badge/Sentry-101010?style=flat-square&logo=sentry&logoColor=E84E0F)
 ![Anthropic](https://img.shields.io/badge/Claude%20Code-101010?style=flat-square&logo=anthropic&logoColor=E84E0F)
 
-<br>
-
 ### `$ ls -la ~/projects` — Building at Yugen Labs
 
 A venture studio building focused digital products for real problems.
@@ -68,8 +64,6 @@ An internal AI app store for companies: one hub to catalog, govern, and discover
 **[Historify](https://www.historify.health)** &nbsp;`Healthtech` `B2C` `AI` `B2B` `Live`
 Turns a patient's scattered lab PDFs (different clinics, formats, units, dates) into one unified, longitudinal health history. *Trace, not diagnose:* it reconstructs the trajectory of your markers over time — reference ranges, unit conversions, temporal reconciliation — without ever interpreting clinically. Built on a strict contract, **"Claude reads, the backend calculates"**: the model only extracts what's printed (raw value, unit, printed range, confidence, source location), while a deterministic engine owns every clinical calculation — so the same PDF always yields the same result.
 
-<br>
-
 ### `$ grep --count publications.bib`
 
 ```text
@@ -83,8 +77,6 @@ myocardial infarction.
 - **JMIR Formative Research** (2024) — Digital-development principles for a data-collection app in cardiac patients → [read](https://formative.jmir.org/2024/1/e33868)
 - **Revista Cuidarte** (2022) — Mobile app for home monitoring of infants with complex congenital heart disease → [read](https://revistas.udes.edu.co/cuidarte/article/view/2335/2645)
 
-<br>
-
 ### `$ curl -s davidcasr.com/contact`
 
 Available for **backend roles, software architecture consulting, and applied AI.**
@@ -92,8 +84,6 @@ If you have something to build, let's talk.
 
 [![Email](https://img.shields.io/badge/me@davidcasr.com-E84E0F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@davidcasr.com)
 [![Calendly](https://img.shields.io/badge/Book%20a%20call-101010?style=for-the-badge&logo=calendly&logoColor=E84E0F)](https://calendly.com/davidcasr/coaching)
-
-<br>
 
 <div align="center">
 
