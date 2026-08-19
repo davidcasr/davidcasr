@@ -55,14 +55,14 @@ matter — high-traffic consumer platforms, health data, and AI systems built fo
 A venture studio building focused digital products for real problems.
 Small teams, deep thinking, meaningful tools. → [yugenlabs.dev](https://www.yugenlabs.dev)
 
-**[ScanMessage](https://www.scanmessage.dev)** &nbsp;`AI` `Cybersecurity` `B2B` `Live`
-B2B SaaS for AI-powered message classification & routing across WhatsApp, email, CRM and ticketing. Built on agentic architectures (ReAct / plan-and-execute) with the Anthropic SDK.
+**[ScanMessage](https://www.scanmessage.dev)** 
+B2B SaaS for AI-powered message classification & routing across WhatsApp, email, CRM and ticketing. Built on agentic architectures (ReAct / plan-and-execute) with the Anthropic SDK. &nbsp;`AI` `Cybersecurity` `B2B` `Live`
 
-**[Portall](https://www.getportall.com/)** &nbsp;`Productivity` `AI` `B2B` `Live`
-An internal AI app store for companies: one hub to catalog, govern, and discover the AI tools teams build in-house — with owners, lifecycle states, search, permissions, and usage analytics. The edge is **Portfolio Intelligence**: embeddings that surface duplicate apps, ownerless tools, and undocumented sensitive-data usage, plus an LLM-generated maturity score — turning a directory into a governance layer for eng leaders drowning in shadow AI.
+**[Portall](https://www.getportall.com/)** 
+An internal AI app store for companies: one hub to catalog, govern, and discover the AI tools teams build in-house — with owners, lifecycle states, search, permissions, and usage analytics. The edge is **Portfolio Intelligence**: embeddings that surface duplicate apps, ownerless tools, and undocumented sensitive-data usage, plus an LLM-generated maturity score — turning a directory into a governance layer for eng leaders drowning in shadow AI. &nbsp;`Productivity` `AI` `B2B` `Live`
 
-**[Historify](https://www.historify.health)** &nbsp;`Healthtech` `B2C` `AI` `B2B` `Live`
-Turns a patient's scattered lab PDFs (different clinics, formats, units, dates) into one unified, longitudinal health history. *Trace, not diagnose:* it reconstructs the trajectory of your markers over time — reference ranges, unit conversions, temporal reconciliation — without ever interpreting clinically. Built on a strict contract, **"Claude reads, the backend calculates"**: the model only extracts what's printed (raw value, unit, printed range, confidence, source location), while a deterministic engine owns every clinical calculation — so the same PDF always yields the same result.
+**[Historify](https://www.historify.health)** 
+Turns a patient's scattered lab PDFs (different clinics, formats, units, dates) into one unified, longitudinal health history. *Trace, not diagnose:* it reconstructs the trajectory of your markers over time — reference ranges, unit conversions, temporal reconciliation — without ever interpreting clinically. Built on a strict contract, **"Claude reads, the backend calculates"**: the model only extracts what's printed (raw value, unit, printed range, confidence, source location), while a deterministic engine owns every clinical calculation — so the same PDF always yields the same result. &nbsp;`Healthtech` `B2C` `AI` `B2B` `Live`
 
 ### `$ grep --count publications.bib`
 
