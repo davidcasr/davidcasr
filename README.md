@@ -64,6 +64,17 @@ Turns a patient's scattered lab PDFs (different clinics, formats, units, dates) 
 **[Portall](https://www.getportall.com/)** 
 An internal AI app store for companies: one hub to catalog, govern, and discover the AI tools teams build in-house — with owners, lifecycle states, search, permissions, and usage analytics. The edge is **Portfolio Intelligence**: embeddings that surface duplicate apps, ownerless tools, and undocumented sensitive-data usage, plus an LLM-generated maturity score — turning a directory into a governance layer for eng leaders drowning in shadow AI. &nbsp;`Productivity` `AI` `B2B` `Live`
 
+### `$ ls -la ~/oss`
+
+Open-source side projects.
+
+**[colombia-open](https://github.com/davidcasr/colombia-open)**
+Open-source Python library distributing Colombia's public datasets — curated,
+normalized, and validated — so developers can `pip install` clean geographic,
+demographic, and institutional data instead of wrestling with inconsistent
+government portals. Built one source a week, end-to-end (extract → validate
+→ publish), with the full roadmap public. &nbsp;`Python` `Open Data` `Open Source`
+
 ### `$ grep --count publications.bib`
 
 ```text
